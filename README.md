@@ -3,6 +3,13 @@ With the sad closure of RGT Cycling, some of the user base has moved over to MyW
 
 **v0.1.0** Initial Release
 
+# Like this Project? 
+You can buy me a gel, coffee, or inner tube. Your support helps me further develop on these types of projects. 
+
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RE2GQDK8CD2WW)
+
+
 ## Change Log:
 View the latest on the [Change Log](https://github.com/JC-Concepts/MyWhoosh-ArduinoSteering/blob/main/CHANGELOG.md) 
 
@@ -23,13 +30,6 @@ View the latest on the [Change Log](https://github.com/JC-Concepts/MyWhoosh-Ardu
  **v0.1.0 - Base Circuit**
 <img src="https://user-images.githubusercontent.com/126370788/284778269-77ad810c-1040-4ff1-814f-9918f80b4844.png" alt="v0.1.0 Schematic" title="v0.1.0 Schematic">
 
-
-
-# Like this Project? 
-You can buy me a gel, coffee, or inner tube. Your support helps me further develop on these types of projects. 
-
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RE2GQDK8CD2WW)
 
 
 ## Hardware Installation Example:
