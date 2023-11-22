@@ -5,7 +5,7 @@ The Arduino will act as a USB HID keyboard and when you press the buttons it wil
 
 https://github.com/JC-Concepts/MyWhoosh-ArduinoSteering
 
-Version: 0.1.1
+Version: 0.1.0
 
 BOM:
 - Arduino Pro Micro
