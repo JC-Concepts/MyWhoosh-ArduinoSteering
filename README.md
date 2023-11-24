@@ -3,7 +3,7 @@ With the sad closure of RGT Cycling, some of the user base has moved over to MyW
 
 **v0.1.0** Initial Release 
 
-**Known bugs:** Doesn't seem to respond as fast for press and hold. No "rapid fire"  
+
 
 # Like this Project? 
 You can buy me a gel, coffee, or inner tube. Your support helps me further develop on these types of projects. 
