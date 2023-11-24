@@ -1,7 +1,9 @@
 # MyWhoosh - Arduino USB Steering (PC solution)
 With the sad closure of RGT Cycling, some of the user base has moved over to MyWhoosh. People who have used RGT knows there was a steering feature and some even knew I had a steering solution for it which you can find here https://github.com/JC-Concepts/RGT-Arduino_USB_Steer. Hopever it was not a pure plug and play to transfer the RGT steering unit over to MyWhoosh even though it used the same keyboard commands. This project is to create steering buttons for MyWhoosh using an Arduino Pro Micro (or Leonardo). The concept is to make the Arduino act as an plug & play HID USB keyboard and send the characters 'A' (left) and 'D' (right) commands.
 
-**v0.1.0** Initial Release
+**v0.1.0** Initial Release 
+
+**Known bugs:** Doesn't seem to respond as fast for press and hold. No "rapid fire"  
 
 # Like this Project? 
 You can buy me a gel, coffee, or inner tube. Your support helps me further develop on these types of projects. 
